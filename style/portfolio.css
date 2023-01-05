@@ -195,3 +195,6 @@ padding: 30px;
 input{
   height: 64px;
 }
+.contact a{
+  text-decoration: none;
+}
