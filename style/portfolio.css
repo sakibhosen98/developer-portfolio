@@ -138,3 +138,39 @@ padding: 30px;
 .skill-description{
   color: #757575;
 }
+
+/* Resume content style */
+.resume{
+  margin-top: 50px;
+ ;
+}
+.section-title{
+  text-align: center;
+}
+.resume-content{
+  display: flex;
+  gap: 24px;
+}
+.resume .resume-items{
+  margin-bottom: 30px;
+}
+
+.resume .title{
+  color: #474747;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 10px;
+
+}
+.resume .sub-title{
+  color: #757575;
+  font-weight: 600;
+  font-size: 20px;
+}
+.resume-description{
+  color: #757575;
+}
+.resume-btn{
+  margin-top: 50px;
+  text-align: center;
+}
